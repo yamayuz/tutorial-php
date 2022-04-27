@@ -1,12 +1,12 @@
 <?php
 
-echo "hello\n";
-echo "hello\n";
+echo "Hello World\n";
+print "Hello World\n";
 
-$test = "test";
+$test = "Hello test!\n";
 
-$number = 100;
+echo $test;
 
-$number2 = 200;
+define("ABC", "abc\n");
 
-$number3 = $number + $number2;
+echo ABC;
