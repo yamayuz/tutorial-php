@@ -1,4 +1,5 @@
 <?php
+// クラスの定義、インスタンスの生成方法
 
 class SimpleClass
 {
